@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OxZ0Vo01cT2ApxILReDE6/tFz4ST6CCIvM5CGD/nnivPDtHohX2vCh8XJO/eCXSUqa6dgOTDVrX0ZAM9Elvtpg==",
+  "success": true,
+  "projectFilePath": "H:\\Workspace\\Themes\\CatpuccinoBlue\\CatpuccinoBlue\\CatpuccinoBlue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Antonia\\.nuget\\packages\\microsoft.visualstudio.vsixcolorcompiler\\17.0.31709.430\\microsoft.visualstudio.vsixcolorcompiler.17.0.31709.430.nupkg.sha512"
+  ],
+  "logs": []
+}
