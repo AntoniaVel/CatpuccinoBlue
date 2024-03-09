@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="CatpuccinoBlue (2)" GUID="{88c77a50-00b0-4f85-82e2-b93eb0ee8ff7}" BaseGUID="{9b037ae6-cf2c-4018-8b8f-bb6378df316e}">
+  <Theme Name="CatpuccinoBlue" GUID="{88c77a50-00b0-4f85-82e2-b93eb0ee8ff7}" BaseGUID="{9b037ae6-cf2c-4018-8b8f-bb6378df316e}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF24273A" />
