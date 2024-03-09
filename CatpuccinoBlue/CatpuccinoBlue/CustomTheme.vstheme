@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="CatpuccinoBlue" GUID="{9b037ae6-cf2c-4018-8b8f-bb6378df316e}" BaseGUID="{48281a4c-67c1-45bd-9bf6-46b68344d0c8}">
+  <Theme Name="CatpuccinoBlue (1)" GUID="{f4040997-2e11-498f-aa2e-ea31546397e1}" BaseGUID="{9b037ae6-cf2c-4018-8b8f-bb6378df316e}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF24273A" />
@@ -4720,7 +4720,7 @@
       </Color>
       <Color Name="InfoBarBackground">
         <Background Type="CT_RAW" Source="FFFEFCC8" />
-        <Foreground Type="CT_RAW" Source="FFCAD3F5" />
+        <Foreground Type="CT_RAW" Source="FF45475A" />
       </Color>
       <Color Name="Hyperlink">
         <Foreground Type="CT_RAW" Source="FFCAD3F5" />
