@@ -17,6 +17,14 @@
         }
       }
     },
+    ".NETFramework,Version=v4.7.2/win-arm64": {
+      "Microsoft.VisualStudio.VsixColorCompiler/17.0.31709.430": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.VisualStudio.VsixColorCompiler.targets": {}
+        }
+      }
+    },
     ".NETFramework,Version=v4.7.2/win-x64": {
       "Microsoft.VisualStudio.VsixColorCompiler/17.0.31709.430": {
         "type": "package",
@@ -63,11 +71,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Workspace\\Themes\\CatpuccinoBlue\\CatpuccinoBlue\\CatpuccinoBlue.csproj",
+      "projectUniqueName": "H:\\Workspace\\CatpuccinoBlue\\CatpuccinoBlue\\CatpuccinoBlue\\CatpuccinoBlue.csproj",
       "projectName": "CatpuccinoBlue",
-      "projectPath": "H:\\Workspace\\Themes\\CatpuccinoBlue\\CatpuccinoBlue\\CatpuccinoBlue.csproj",
+      "projectPath": "H:\\Workspace\\CatpuccinoBlue\\CatpuccinoBlue\\CatpuccinoBlue\\CatpuccinoBlue.csproj",
       "packagesPath": "C:\\Users\\Antonia\\.nuget\\packages\\",
-      "outputPath": "H:\\Workspace\\Themes\\CatpuccinoBlue\\CatpuccinoBlue\\obj\\",
+      "outputPath": "H:\\Workspace\\CatpuccinoBlue\\CatpuccinoBlue\\CatpuccinoBlue\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -103,6 +111,9 @@
     },
     "runtimes": {
       "win": {
+        "#import": []
+      },
+      "win-arm64": {
         "#import": []
       },
       "win-x64": {
